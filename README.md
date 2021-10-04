@@ -3,4 +3,5 @@
 ---------------------------------------------------------------
 - 🌱 Estoy aprendiendo programación con codigo binario y C++
 - 💞️ Me gustaria colaborar con alguien que le interese la programación y la informática | Mi discord: (https://discord.gg/beyJG7p)
+
 - 📫 Puedes buscarme en instagram como teianc2012, en twitch como teinac2021 o en discord como teinac2012#6316
