@@ -1,8 +1,14 @@
-- 👋 Hola, soy @teinac2012
-- 👀 Estoy interesado en programación, creación de videojuegos y la informática tanto software y hardware. Sobre Mí: (https://linktr.ee/teinac2012)
+🚀 Hola, Soy david
 
----------------------------------------------------------------
-- 🌱 Estoy aprendiendo programación con codigo binario y C++
-- 💞️ Me gustaria colaborar con alguien que le interese la programación y la informática | Mi discord: (https://discord.gg/beyJG7p)
+Apasionado por la programación, la creación de videojuegos y todo lo que tenga que ver con la informática, tanto software como hardware.
+Mi linktree: https://linktr.ee/teinac2012
 
-- 📫 Puedes buscarme en instagram como teianc2012, en twitch como teinac2021 o en discord como teinac2012#6316
+🔧 Actualmente aprendiendo
+
+Programación desde la base: código binario, C++ y todo lo que me ayude a entender cómo funciona realmente un ordenador.
+
+📬 Contacto
+
+Correo personal: teinac2021@gmail.com
+
+Instagram: @daviidgtrz_
