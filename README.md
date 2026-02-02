@@ -1,14 +1,22 @@
-🚀 Hola, Soy david
+🚀 Hola, soy David
 
-Apasionado por la programación, la creación de videojuegos y todo lo que tenga que ver con la informática, tanto software como hardware.
-Mi linktree: https://linktr.ee/teinac2012
+Apasionado por la programación, la creación de videojuegos y todo lo relacionado con la informática, tanto software como hardware. Me encanta entender cómo funcionan las cosas por dentro, desde el nivel más bajo hasta el producto final.
 
-🔧 Actualmente aprendiendo
+🧩 Proyectos web desarrollados
+He creado y participado en el desarrollo de varias webs funcionales como proyectos personales:
 
-Programación desde la base: código binario, C++ y todo lo que me ayude a entender cómo funciona realmente un ordenador.
+🌐 Inmobilifoto – https://www.inmobilifoto.com/
+
+🖨️ Impresionao – https://www.impresionao.es/
+
+📚 ¿HoyTengoClase? – https://www.hoytengoclase.es/
+
+🌱 Siempre aprendiendo y buscando nuevos retos para seguir mejorando como desarrollador.
+
+🔗 Linktree
+https://linktr.ee/teinac2012
 
 📬 Contacto
+📧 Email: teinac2021@gmail.com
 
-Correo personal: teinac2021@gmail.com
-
-Instagram: @daviidgtrz_
+📸 Instagram: @daviidgtrz_
