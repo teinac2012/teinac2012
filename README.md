@@ -10,7 +10,7 @@ He creado y participado en el desarrollo de varias webs funcionales como proyect
 
 - 🌐 **Inmobilifoto** – https://www.inmobilifoto.com/
 - 🖨️ **Impresionao** – https://www.impresionao.es/
-- 📚 **Hoy Tengo Clase** – https://www.hoytengoclase.es/
+- 📚 **¿Hoy Tengo Clase?** – https://www.hoytengoclase.es/
 
 🌱 Siempre aprendiendo y buscando nuevos retos para seguir creciendo como desarrollador.
 
